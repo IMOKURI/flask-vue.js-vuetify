@@ -13,4 +13,4 @@ flask = "*"
 python_version = "3.6"
 
 [scripts]
-start = "python app.py"
+app = "python app.py"
